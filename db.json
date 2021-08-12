@@ -1,0 +1,210 @@
+{
+  "products": [
+    {
+      "name": "Bắp ngọt hữu cơ",
+      "qty": 1,
+      "image": "https://firebasestorage.googleapis.com/v0/b/reactjs-f403b.appspot.com/o/image%2Fbap-ngot-huu-co-320x320.jpg?alt=media&token=6f36e816-3ce9-41e5-9d9e-0d9a58f22ba3",
+      "price": "50000",
+      "description": "100% tươi ngon tự nhiên",
+      "quantity": "12",
+      "categoriesID": "1",
+      "id": "2"
+    },
+    {
+      "name": "Cải bắp",
+      "qty": 1,
+      "image": "https://firebasestorage.googleapis.com/v0/b/reactjs-f403b.appspot.com/o/image%2Fbap-cai-tim-320x320.jpg?alt=media&token=6e4ab9c6-45f8-4afa-9806-58f9f1dabbf6",
+      "price": "10000",
+      "description": "sản xuất từ thiên nhiên                        ",
+      "quantity": "10",
+      "categoriesID": "2",
+      "id": "pmw5a80fz"
+    },
+    {
+      "name": "Dưa chuột",
+      "qty": 1,
+      "image": "https://firebasestorage.googleapis.com/v0/b/reactjs-f403b.appspot.com/o/image%2Fdua-leo-baby-huu-co-320x320.jpg?alt=media&token=878fcccb-a662-43b4-b791-46eb864a7d6e",
+      "price": "12000",
+      "description": "Được trồng trên Đà Lạt",
+      "quantity": "12",
+      "categoriesID": "2",
+      "id": "avxo866qe"
+    },
+    {
+      "name": "Ớt chuông vàng hữu cơ",
+      "price": "10000",
+      "quantity": "13",
+      "categoriesID": "1",
+      "image": "https://firebasestorage.googleapis.com/v0/b/reactjs-f403b.appspot.com/o/image%2Fot-chuong-vang-huu-co-320x320.png?alt=media&token=a5e1729d-ea82-4b21-a854-a0f749e5b5d4",
+      "description": "100% tươi ngon tự nhiên",
+      "qty": 1,
+      "id": "Ifstdnr"
+    },
+    {
+      "name": "Hành lá",
+      "price": "30000",
+      "quantity": "34",
+      "categoriesID": "2",
+      "image": "https://firebasestorage.googleapis.com/v0/b/reactjs-f403b.appspot.com/o/image%2Fhanh-la-huu-co-320x320.jpg?alt=media&token=a3ac3a56-a57f-47b9-96dc-9ed913cc49f5",
+      "description": "hành lá 100% tự nhiên an toàn",
+      "qty": 1,
+      "id": "G7-jclm"
+    },
+    {
+      "name": "Mướp đắng",
+      "price": "40000",
+      "quantity": "100",
+      "categoriesID": "2",
+      "image": "https://firebasestorage.googleapis.com/v0/b/reactjs-f403b.appspot.com/o/image%2Fkho-qua-huu-co-320x320.jpg?alt=media&token=91aaf9e1-4a91-4bda-bf36-ec38fad319bf",
+      "description": "100% tự nhiên",
+      "qty": 1,
+      "id": "XOypKDd"
+    },
+    {
+      "name": "Mướp đắng hữa cơ",
+      "price": "40000",
+      "quantity": "100",
+      "categoriesID": "1",
+      "image": "https://firebasestorage.googleapis.com/v0/b/reactjs-f403b.appspot.com/o/image%2Fkho-qua-huu-co-320x320.jpg?alt=media&token=0aff7ac5-3241-44f3-a8c8-d8c28ee74eda",
+      "description": "100% tự nhiên",
+      "qty": 1,
+      "id": "dBkdLrl"
+    },
+    {
+      "name": "Bông cải trắng hữu cơ",
+      "price": "550000",
+      "quantity": "100",
+      "categoriesID": "1",
+      "image": "https://firebasestorage.googleapis.com/v0/b/reactjs-f403b.appspot.com/o/image%2Fbong-cai-trang-huu-co-320x320.jpg?alt=media&token=4bbc515b-0c0d-410d-b771-ba9ec82ddc6f",
+      "description": "100% tự nhiên",
+      "qty": 1,
+      "id": "UFLdR7q"
+    }
+  ],
+  "categories": [
+    {
+      "id": "1",
+      "name": "Rau hữu cơ"
+    },
+    {
+      "name": "Rau sạch",
+      "id": "2"
+    }
+  ],
+  "user": [
+    {
+      "fsname": "anh",
+      "lsname": "tien",
+      "email": "tienanh@gmail.com",
+      "password": "123",
+      "role": "999",
+      "id": "1"
+    },
+    {
+      "fsname": "anh",
+      "lsname": "tienanh",
+      "email": "tienanh1@gmail.com",
+      "password": "123456",
+      "passwordConfirm": "123456",
+      "id": "S1qXNj7"
+    },
+    {
+      "fsname": "anh",
+      "lsname": "tienaa",
+      "email": "tienanh3011@gmail.com",
+      "password": "123456",
+      "passwordConfirm": "123456",
+      "id": "qIvKsxE"
+    }
+  ],
+  "contacts": [
+    {
+      "nameContact": "dang van huy",
+      "emailContact": "huy@gmail.com",
+      "serviceContact": "Vegetables Growing",
+      "phoneContact": "036364554",
+      "messageContact": "san pham cua toi bi loi roi",
+      "id": "1LAKzrL"
+    },
+    {
+      "nameContact": "nguyen duy trang",
+      "emailContact": "trang@gmail.com",
+      "serviceContact": "Gardening",
+      "phoneContact": "0336125695",
+      "messageContact": "lam được cũng ít quá cơ",
+      "id": "imPWdeo"
+    }
+  ],
+  "invoices": [
+    {
+      "fsname": "234",
+      "lsname": "123",
+      "email": "thinduy@gmail.com",
+      "phone": "123",
+      "address": "xóm đê , mạnh trữ",
+      "city": "hà nội",
+      "note": "12345",
+      "payment": "Via paypal",
+      "idProduct": "avs5s7xw3,pmw5a80fz",
+      "total": "4,260",
+      "id": "4_Vwvw4"
+    },
+    {
+      "fsname": "bui hung",
+      "lsname": "van",
+      "email": "hung@gmail.com",
+      "phone": "03361554545",
+      "address": "xóm lang , me linh",
+      "city": "hà nội",
+      "note": "ship nhanh cho toi",
+      "payment": "Via paypal",
+      "idProduct": "2,pmw5a80fz,avxo866qe",
+      "total": "3,630",
+      "id": "TbNhnOW"
+    }
+  ],
+  "comment": [
+    {
+      "idProduct": "2",
+      "content": "sản phẩm này ok lắm",
+      "name": "thinduy",
+      "email": "thin@gamiu",
+      "id": "5jSIVac"
+    },
+    {
+      "idProduct": "2",
+      "content": "quả này tốt lắm nhé mọi người",
+      "name": "ẩn danh",
+      "email": "andanh@gmail.com",
+      "id": "_b59jJY"
+    },
+    {
+      "idProduct": "avxo866qe",
+      "content": "xoài thơm ngon ghê",
+      "name": "johnmeichal",
+      "email": "john@gmail.com",
+      "id": "fGH91Ka"
+    },
+    {
+      "idProduct": "avxo866qe",
+      "content": "chất lượng tốt",
+      "name": "thúy",
+      "email": "thuy@gmail.com",
+      "id": "FnaC8iz"
+    },
+    {
+      "idProduct": "pmw5a80fz",
+      "content": "quar nay ok qua di",
+      "name": "minh duc",
+      "email": "duck@gmail.com",
+      "id": "dyPyIvq"
+    },
+    {
+      "idProduct": "avs5s7xw3",
+      "content": "sdfsdfds",
+      "name": "nam",
+      "email": "nam@gmail.com",
+      "id": "5aULTcr"
+    }
+  ]
+}

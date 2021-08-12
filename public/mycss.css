@@ -1,0 +1,105 @@
+.image-update{
+    width: 150px;
+    
+   
+
+}
+
+.div-image-update{
+    padding-top: 6px;
+    height: 176px;
+ 
+    position: relative;
+}
+.input-image-update{
+ position: absolute;
+ top: 34px;
+}
+
+.input-search-admin{
+    background-color: var(--white);
+    border: 2px solid #80808054    !important;
+   
+    height: 35px  !important;
+ 
+    padding-left: 20px;
+   
+    color: var(--ltn__paragraph-color);
+    width: 260px  !important;
+    margin-bottom: 0 !important;
+    border-radius: 5px !important;
+    padding-right: 0 !important;
+    margin-right: 40px !important;
+}
+.btn-add-admin{
+    float: right;
+    margin-top: 21px;
+    width: 117px;
+    font-weight: bold;
+    height: 34px;
+    border-radius: 3px;
+    margin-bottom: 2px;
+}
+.input-radio-1{
+    position: absolute;
+    top: 27px;
+    z-index: 1;
+    left: 22px;
+}
+.input-radio-2{
+    position: absolute;
+    top: 27px;
+    z-index: 1;
+    left: 22px;
+}
+.input-radio-3{
+    position: absolute;
+    top: 38px;
+    z-index: 1;
+    left: 22px;
+}
+
+.pagination {
+    
+    cursor: pointer;
+  }
+ .pagination li{
+     margin-top: 0px !important;
+ }
+  .pagination a {
+    padding: 10px;
+
+    
+  }
+  
+ .prev{
+     margin-right: 10px;
+    font-weight: bold;
+    border-right: none !important;
+    border-radius: 5px 0px 0px 5px;
+  }
+  .nex{
+      margin-left: 10px;
+    font-weight: bold;
+    border-left: none !important;
+    border-radius: 0px 5px 5px 0px;
+  }
+  .pagination__link--active a {
+    color: #fff; 
+     background: #218838;
+     font-weight: bold;
+     border-radius: 10px;
+     transition: .9s;
+ 
+
+  }
+  
+  .pagination__link--disabled a {
+    color: rgb(198, 197, 202);
+    /* border: 1px solid rgb(198, 197, 202); */
+  }
+  #inpQty::-webkit-outer-spin-button,
+  #inpQty::-webkit-inner-spin-button {
+    -webkit-appearance: none;
+    margin: 0;
+  }
